@@ -1,9 +1,9 @@
 ### ¡Hola, soy José Ramos Contioso!👋
 
-Estoy titulado como Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR); además me estoy formando como Desarrollador de Aplicaciones Multiplataforma (DAM)
+Estoy titulado como Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR); además me estoy formando como Desarrollador de Aplicaciones Multiplataforma (DAM).
 
 Podéis ver un poquito más de mí en:
 
-LinkedIn: [José Ramos Contioso](https://linkedin.com/jose-rc)
+LinkedIn: [José Ramos Contioso](https://www.linkedin.com/in/jose-rc/)
 
-Ademas de mi [Portfolio](https://jrc191.github.io/PORTFOLIO-WEB/#bio) Web
+Ademas de mi [Portfolio Web](https://jrc191.github.io/PORTFOLIO-WEB/#bio)
