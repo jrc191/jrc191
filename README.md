@@ -1,6 +1,6 @@
-### ¡Hola, soy José Ramos Contioso!👋
+### ¡Hola!👋
 
-Estoy titulado como Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR); además me estoy formando como Desarrollador de Aplicaciones Multiplataforma (DAM).
+Mi nombre es José Ramos Contioso, y estoy titulado como Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR); además me estoy formando como Desarrollador de Aplicaciones Multiplataforma (DAM).
 
 Podéis ver un poquito más de mí en:
 
